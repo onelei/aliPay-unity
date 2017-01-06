@@ -42,7 +42,7 @@ aliPay plugin for unity.
 
 ```
 
-## C#
+## CSharp
 
 ```
    //  aliPay function;
